@@ -1,0 +1,4 @@
+- [ done] Define all the actions for controllers Dogs and People
+- [done ] Task 1 : If the Person is deleted all the associated dogs must be deleted
+- [done ] Task 2 : A Dog must not exist without a person
+- [ done] Task 3 : Dog name must not exceed 10 characters
